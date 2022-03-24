@@ -2,12 +2,16 @@ import json
 import sys
 import xml.etree.ElementTree as ET
 
+'''
+    python 2_1.py blind_ko-en.txt blind_align raganato/en.blind.xml blindProject.json
+'''
+
 dat_pth = sys.argv[1]
 align_pth = sys.argv[2]
-out_path = sys.argv[3]
-rag_path = 'raganato/en.blind.xml'
+rag_path = sys.argv[3]
+out_path = sys.argv[4]
 
-if len(sys.argv) < 4:
+if len(sys.argv) < 5:
     print('Invalid command-line arguments')
     exit(1)
 

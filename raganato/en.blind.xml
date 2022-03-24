@@ -1,4 +1,4 @@
-<corpus lang="en" source="senseval2" tagger="treetagger" word_count="31340">
+<corpus lang="en" source="senseval2" tagger="nltk" word_count="31340">
   <text id="d000">
     <sentence id="d000.s20" sentence_word_count="13">
       <instance id="d000.s20.t0" lemma="finally" pos="ADV">Finally</instance>
