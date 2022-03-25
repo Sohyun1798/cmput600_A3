@@ -1,0 +1,602 @@
+[
+    {
+        "src": "\ud1b5\uc99d",
+        "tgt": [
+            "pain"
+        ],
+        "lemma": [
+            "pain"
+        ],
+        "id": [
+            "pain%1:26:00::"
+        ]
+    },
+    {
+        "src": "\ud68c\ub85c",
+        "tgt": [
+            "circuits"
+        ],
+        "lemma": [
+            "circuit"
+        ],
+        "id": [
+            "circuit%1:06:00::"
+        ]
+    },
+    {
+        "src": "\ud314",
+        "tgt": [
+            "arm"
+        ],
+        "lemma": [
+            "arm"
+        ],
+        "id": [
+            "arm%1:08:00::"
+        ]
+    },
+    {
+        "src": "\ucef4\ud4e8\ud130",
+        "tgt": [
+            "computer"
+        ],
+        "lemma": [
+            "computer"
+        ],
+        "id": [
+            "computer%1:06:00::"
+        ]
+    },
+    {
+        "src": "\uc704\ud5d8",
+        "tgt": [
+            "risk"
+        ],
+        "lemma": [
+            "risk"
+        ],
+        "id": [
+            "risk%1:26:00::"
+        ]
+    },
+    {
+        "src": "\uc774\uc57c\uae30",
+        "tgt": [
+            "story"
+        ],
+        "lemma": [
+            "story"
+        ],
+        "id": [
+            "story%1:10:03::"
+        ]
+    },
+    {
+        "src": "\uc720\uc0b0",
+        "tgt": [
+            "legacy"
+        ],
+        "lemma": [
+            "legacy"
+        ],
+        "id": [
+            "legacy%1:21:00::"
+        ]
+    },
+    {
+        "src": "\uc624\uc804",
+        "tgt": [
+            "morning"
+        ],
+        "lemma": [
+            "morning"
+        ],
+        "id": [
+            "morning%1:28:00::"
+        ]
+    },
+    {
+        "src": "\ud22c\uc790",
+        "tgt": [
+            "Invest"
+        ],
+        "lemma": [
+            "invest"
+        ],
+        "id": [
+            "invest%2:40:00::"
+        ]
+    },
+    {
+        "src": "\uc18c\uc2dd",
+        "tgt": [
+            "news"
+        ],
+        "lemma": [
+            "news"
+        ],
+        "id": [
+            "news%1:10:00::"
+        ]
+    },
+    {
+        "src": "\uc601\ud63c",
+        "tgt": [
+            "soul"
+        ],
+        "lemma": [
+            "soul"
+        ],
+        "id": [
+            "soul%1:18:00::"
+        ]
+    },
+    {
+        "src": "\ubc29\uc2dd",
+        "tgt": [
+            "way"
+        ],
+        "lemma": [
+            "way"
+        ],
+        "id": [
+            "way%1:07:01::"
+        ]
+    },
+    {
+        "src": "\uc120\uc0dd\ub2d8",
+        "tgt": [
+            "teachers"
+        ],
+        "lemma": [
+            "teacher"
+        ],
+        "id": [
+            "teacher%1:18:00::"
+        ]
+    },
+    {
+        "src": "\uacbd\uc81c",
+        "tgt": [
+            "economic"
+        ],
+        "lemma": [
+            "economic"
+        ],
+        "id": [
+            "economic%3:01:01::"
+        ]
+    },
+    {
+        "src": "\uc0c1\ud669",
+        "tgt": [
+            "situation"
+        ],
+        "lemma": [
+            "situation"
+        ],
+        "id": [
+            "situation%1:26:00::"
+        ]
+    },
+    {
+        "src": "\uc544\uc774",
+        "tgt": [
+            "kids"
+        ],
+        "lemma": [
+            "kid"
+        ],
+        "id": [
+            "kid%1:18:00::"
+        ]
+    },
+    {
+        "src": "\uc815\uc6d0",
+        "tgt": [
+            "garden"
+        ],
+        "lemma": [
+            "garden"
+        ],
+        "id": [
+            "garden%1:06:00:"
+        ]
+    },
+    {
+        "src": "\uac00\uc871",
+        "tgt": [
+            "family"
+        ],
+        "lemma": [
+            "family"
+        ],
+        "id": [
+            "family%1:14:02::"
+        ]
+    },
+    {
+        "src": "\uc870\uc5b8",
+        "tgt": [
+            "advice"
+        ],
+        "lemma": [
+            "advice"
+        ],
+        "id": [
+            "advice%1:10:00::"
+        ]
+    },
+    {
+        "src": "\uc790\uc804\uac70",
+        "tgt": [
+            "bicycle"
+        ],
+        "lemma": [
+            "bicycle"
+        ],
+        "id": [
+            "bicycle%1:06:00::"
+        ]
+    },
+    {
+        "src": "\uac19\uc774",
+        "tgt": [
+            "together"
+        ],
+        "lemma": [
+            "together"
+        ],
+        "id": [
+            "together%4:02:02::"
+        ]
+    },
+    {
+        "src": "\uc785\uc790",
+        "tgt": [
+            "particles"
+        ],
+        "lemma": [
+            "particle"
+        ],
+        "id": [
+            "particle%1:27:01::"
+        ]
+    },
+    {
+        "src": "\uc911\ub825",
+        "tgt": [
+            "gravity"
+        ],
+        "lemma": [
+            "gravity"
+        ],
+        "id": [
+            "gravity%1:19:00::"
+        ]
+    },
+    {
+        "src": "\ud798",
+        "tgt": [
+            "forces"
+        ],
+        "lemma": [
+            "force"
+        ],
+        "id": [
+            "force%1:19:00::"
+        ]
+    },
+    {
+        "src": "\uc8fc\ub958",
+        "tgt": [
+            "mainstream"
+        ],
+        "lemma": [
+            "mainstream"
+        ],
+        "id": [
+            "mainstream%1:09:00::"
+        ]
+    },
+    {
+        "src": "\ucc3d\uc870",
+        "tgt": [
+            "creation"
+        ],
+        "lemma": [
+            "creation"
+        ],
+        "id": [
+            "creation%1:04:00::"
+        ]
+    },
+    {
+        "src": "\uac10\uc815",
+        "tgt": [
+            "emotion"
+        ],
+        "lemma": [
+            "emotion"
+        ],
+        "id": [
+            "emotion%1:12:00::"
+        ]
+    },
+    {
+        "src": "\ube48\uace4",
+        "tgt": [
+            "poverty"
+        ],
+        "lemma": [
+            "poverty"
+        ],
+        "id": [
+            "poverty%1:26:00::"
+        ]
+    },
+    {
+        "src": "\uc2e4\uc81c",
+        "tgt": [
+            "real"
+        ],
+        "lemma": [
+            "real"
+        ],
+        "id": [
+            "real%3:00:00::"
+        ]
+    },
+    {
+        "src": "\uc6b4\uc11d",
+        "tgt": [
+            "meteorite"
+        ],
+        "lemma": [
+            "meteorite"
+        ],
+        "id": [
+            "meteorite%1:17:00::"
+        ]
+    },
+    {
+        "src": "\uc11d\ud0c4",
+        "tgt": [
+            "coal"
+        ],
+        "lemma": [
+            "coal"
+        ],
+        "id": [
+            "coal%1:27:00::"
+        ]
+    },
+    {
+        "src": "\uc774\ubbf8",
+        "tgt": [
+            "Already"
+        ],
+        "lemma": [
+            "already"
+        ],
+        "id": [
+            "already%4:02:00::"
+        ]
+    },
+    {
+        "src": "\uc5f0\uad6c",
+        "tgt": [
+            "studies"
+        ],
+        "lemma": [
+            "study"
+        ],
+        "id": [
+            "study%1:04:00::"
+        ]
+    },
+    {
+        "src": "\uc778\ud130\ub137",
+        "tgt": [
+            "Internet"
+        ],
+        "lemma": [
+            "internet"
+        ],
+        "id": [
+            "internet%1:06:00::"
+        ]
+    },
+    {
+        "src": "\uc18d\ub2f4",
+        "tgt": [
+            "proverb"
+        ],
+        "lemma": [
+            "proverb"
+        ],
+        "id": [
+            "proverb%1:10:00::"
+        ]
+    },
+    {
+        "src": "\ud76c\ub9dd",
+        "tgt": [
+            "hope"
+        ],
+        "lemma": [
+            "hope"
+        ],
+        "id": [
+            "hope%1:09:00::"
+        ]
+    },
+    {
+        "src": "\uc120\ud0dd",
+        "tgt": [
+            "choices"
+        ],
+        "lemma": [
+            "choice"
+        ],
+        "id": [
+            "choice%1:04:00::"
+        ]
+    },
+    {
+        "src": "\ub9e4\uccb4",
+        "tgt": [
+            "media"
+        ],
+        "lemma": [
+            "medium"
+        ],
+        "id": [
+            "medium%1:10:01::"
+        ]
+    },
+    {
+        "src": "\ucc3d\ubb38",
+        "tgt": [
+            "windows"
+        ],
+        "lemma": [
+            "window"
+        ],
+        "id": [
+            "window%1:06:00::"
+        ]
+    },
+    {
+        "src": "\uac10\uc0ac\ud558\ub2e4",
+        "tgt": [
+            "Thank"
+        ],
+        "lemma": [
+            "thank"
+        ],
+        "id": [
+            "thank%2:32:00::"
+        ]
+    },
+    {
+        "src": "\uac00\ub974\uce58\ub2e4",
+        "tgt": [
+            "teach"
+        ],
+        "lemma": [
+            "teach"
+        ],
+        "id": [
+            "teach%2:32:00::"
+        ]
+    },
+    {
+        "src": "\ud765\ubbf8\ub86d\ub2e4",
+        "tgt": [
+            "interesting"
+        ],
+        "lemma": [
+            "interesting"
+        ],
+        "id": [
+            "interesting%3:00:00::"
+        ]
+    },
+    {
+        "src": "\ub9cc\ub4e4\ub2e4",
+        "tgt": [
+            "built"
+        ],
+        "lemma": [
+            "build"
+        ],
+        "id": [
+            "build%2:36:00::"
+        ]
+    },
+    {
+        "src": "\uc77d\ub2e4",
+        "tgt": [
+            "read"
+        ],
+        "lemma": [
+            "read"
+        ],
+        "id": [
+            "read%2:31:00::"
+        ]
+    },
+    {
+        "src": "\uc5b4\ub5bb\ub2e4",
+        "tgt": [
+            "How"
+        ],
+        "lemma": [
+            "how"
+        ],
+        "id": [
+            
+        ]
+    },
+    {
+        "src": "\ubc30\uc6b0\ub2e4",
+        "tgt": [
+            "learned"
+        ],
+        "lemma": [
+            "learn"
+        ],
+        "id": [
+            "learn%2:31:00::"
+        ]
+    },
+    {
+        "src": "\uacb0\uad6d",
+        "tgt": [
+            "finally"
+        ],
+        "lemma": [
+            "finally"
+        ],
+        "id": [
+            "finally%4:02:02::"
+        ]
+    },
+    {
+        "src": "\uc8fc\ub2e4",
+        "tgt": [
+            "giving"
+        ],
+        "lemma": [
+            "give"
+        ],
+        "id": [
+            "give%2:40:00::"
+        ]
+    },
+    {
+        "src": "\uba40\ub9ac",
+        "tgt": [
+            "far"
+        ],
+        "lemma": [
+            "far"
+        ],
+        "id": [
+            "far%4:02:00::"
+        ]
+    },
+    {
+        "src": "\ud575",
+        "tgt": [
+            "nuclear"
+        ],
+        "lemma": [
+            "nuclear"
+        ],
+        "id": [
+            "nuclear%3:01:01::"
+        ]
+    }
+]
