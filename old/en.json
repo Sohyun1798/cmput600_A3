@@ -1,0 +1,522 @@
+[
+  null,
+  [
+    {
+      "id": "bn:00045073n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "03786715n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00035409n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "03991062n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00009430n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "10839469n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00033625n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "00532739n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00075448n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "14063089n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00076532n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "06872676n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00053995n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07567707n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00050603n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "08879197n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00051469n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "13508651n"
+    }
+  ],
+  null,
+  null,
+  null,
+  [
+    {
+      "id": "bn:00003655n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "01638722n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00069466n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07845775n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00041014n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "08229694n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00015810n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "02127678n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00065382n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "13684402n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00047178n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "10212338n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00038303n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12535820n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00032780n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "10076307n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00047381n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "13155305n"
+    }
+  ],
+  null,
+  null,
+  null,
+  [
+    {
+      "id": "bn:00070674n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "04175859n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00015392n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12270946n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00020884n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07373803n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00018643n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07638317n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00030882n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "02100735n"
+    }
+  ],
+  null,
+  null,
+  null,
+  [
+    {
+      "id": "bn:00013497n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "02274822n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00041060n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "04849241n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00045527n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "10195056n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00050501n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12238913n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00023785n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "06347225n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00070304n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "10576513n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00064044n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "01032892n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00022351n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "06768394n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00026673n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "09266052n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00033340n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12344996n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00055282n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "00653719n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00055358n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "03774461n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00048631n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "11637810n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00076816n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "15296354n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00025196n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "08761244n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00065590n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "14275661n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00057167n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "03816394n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00065522n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "13544433n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00038088n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12948978n"
+    }
+  ],
+  null,
+  null,
+  null,
+  null,
+  [
+    {
+      "id": "bn:00076889n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "09593416n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00067155n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "04076284n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00007540n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "05286167n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00033373n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12988703n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00084527v",
+      "pos": "VERB",
+      "source": "BABELNET",
+      "__wn": "02436349v"
+    }
+  ],
+  [
+    {
+      "id": "bn:00054037n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07871940n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00021904n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "09068444n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00026790n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "14118138n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00069678n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "05660631n"
+    }
+  ],
+  null,
+  null,
+  [
+    {
+      "id": "bn:00066747n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "06305610n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00040559n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "11238092n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00073560n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "04284438n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00036309n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "05245192n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00051755n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "05992274n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00067810n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "08416652n"
+    }
+  ],
+  null,
+  [
+    {
+      "id": "bn:00032857n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "12803958n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00005739n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "09690371n"
+    }
+  ],
+  [
+    {
+      "id": "bn:00058556n",
+      "pos": "NOUN",
+      "source": "BABELNET",
+      "__wn": "07115914n"
+    }
+  ]
+]

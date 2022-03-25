@@ -1,3 +1,4 @@
 project.json filter=lfs diff=lfs merge=lfs -text
 raganato/en.train.xml filter=lfs diff=lfs merge=lfs -text
 raganato/en.all.xml filter=lfs diff=lfs merge=lfs -text
+projections/projection.json filter=lfs diff=lfs merge=lfs -text

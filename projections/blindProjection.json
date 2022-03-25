@@ -1,0 +1,7818 @@
+{
+  "0": [
+    {
+      "_src": [
+        "10"
+      ],
+      "_tgt": "10",
+      "lemma": [
+        "10"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "months"
+      ],
+      "_tgt": "개월",
+      "lemma": [
+        "month"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "almost"
+      ],
+      "_tgt": "거의",
+      "lemma": [
+        "almost"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "waiting"
+      ],
+      "_tgt": "기다리",
+      "lemma": [
+        "wait"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "after"
+      ],
+      "_tgt": "끝",
+      "lemma": [
+        "after"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "after"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "after"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "him"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "him"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "see"
+      ],
+      "_tgt": "보",
+      "lemma": [
+        "see"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "him"
+      ],
+      "_tgt": "러",
+      "lemma": [
+        "him"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "a"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "year"
+      ],
+      "_tgt": "었",
+      "lemma": [
+        "year"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "1": [
+    {
+      "_src": [
+        "But"
+      ],
+      "_tgt": "하지만",
+      "lemma": [
+        "but"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "six"
+      ],
+      "_tgt": "6",
+      "lemma": [
+        "six"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "months"
+      ],
+      "_tgt": "달",
+      "lemma": [
+        "month"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "or"
+      ],
+      "_tgt": "혹은",
+      "lemma": [
+        "or"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'re"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "still"
+      ],
+      "_tgt": "지",
+      "lemma": [
+        "still"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "pain"
+      ],
+      "_tgt": "통증",
+      "lemma": [
+        "pain"
+      ],
+      "id": [
+        "d000.s95.t1"
+      ],
+      "sense_key": [
+        "pain%1:26:00::"
+      ]
+    },
+    {
+      "_src": [
+        "longer"
+      ],
+      "_tgt": "지속",
+      "lemma": [
+        "longer"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "time"
+      ],
+      "_tgt": "되",
+      "lemma": [
+        "time"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "circuits"
+      ],
+      "_tgt": "회로",
+      "lemma": [
+        "circuit"
+      ],
+      "id": [
+        "d000.s95.t7"
+      ],
+      "sense_key": [
+        "circuit%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "no"
+      ],
+      "_tgt": "불필요",
+      "lemma": [
+        "no"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "these"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "these"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "pain"
+      ],
+      "_tgt": "통증",
+      "lemma": [
+        "pain"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "producing"
+      ],
+      "_tgt": "생성",
+      "lemma": [
+        "produce"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "that"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "that"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "because"
+      ],
+      "_tgt": "기",
+      "lemma": [
+        "because"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "because"
+      ],
+      "_tgt": "때문",
+      "lemma": [
+        "because"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "ㅂ니다",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "2": [
+    {
+      "_src": [
+        "one"
+      ],
+      "_tgt": "한쪽",
+      "lemma": [
+        "one"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "arm"
+      ],
+      "_tgt": "팔",
+      "lemma": [
+        "arm"
+      ],
+      "id": [
+        "d000.s126.t4"
+      ],
+      "sense_key": [
+        "arm%1:08:00::"
+      ]
+    },
+    {
+      "_src": [
+        "lose"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "lose"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "lose"
+      ],
+      "_tgt": "잃",
+      "lemma": [
+        "lose"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "bad"
+      ],
+      "_tgt": "불행",
+      "lemma": [
+        "bad"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "하다",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "3": [
+    {
+      "_src": [
+        "Steve"
+      ],
+      "_tgt": "스티브",
+      "lemma": [
+        "steve"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Jurvetson"
+      ],
+      "_tgt": "버슨",
+      "lemma": [
+        "jurvetson"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Jurvetson"
+      ],
+      "_tgt": "SJ",
+      "lemma": [
+        "jurvetson"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "This"
+      ],
+      "_tgt": "이런",
+      "lemma": [
+        "this"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "rare"
+      ],
+      "_tgt": "경우",
+      "lemma": [
+        "rare"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "rare"
+      ],
+      "_tgt": "흔하",
+      "lemma": [
+        "rare"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "지",
+      "lemma": [
+        "'s"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "rare"
+      ],
+      "_tgt": "않",
+      "lemma": [
+        "rare"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "computer"
+      ],
+      "_tgt": "컴퓨터",
+      "lemma": [
+        "computer"
+      ],
+      "id": [
+        "d000.s182.t4"
+      ],
+      "sense_key": [
+        "computer%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "failed"
+      ],
+      "_tgt": "고장나",
+      "lemma": [
+        "fail"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "'s"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "4": [
+    {
+      "_src": [
+        "Thank"
+      ],
+      "_tgt": "감사",
+      "lemma": [
+        "thank"
+      ],
+      "id": [
+        "d000.s198.t0"
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Thank"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "thank"
+      ],
+      "id": [
+        "d000.s198.t0"
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "5": [
+    {
+      "_src": [
+        "blood"
+      ],
+      "_tgt": "고혈압",
+      "lemma": [
+        "blood"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "down"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "down"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "should"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "should"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "You"
+      ],
+      "_tgt": "시",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "should"
+      ],
+      "_tgt": "어야",
+      "lemma": [
+        "should"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "should"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "should"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "chronic"
+      ],
+      "_tgt": "만성",
+      "lemma": [
+        "chronic"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "과",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "biggest"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "big"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "biggest"
+      ],
+      "_tgt": "가장",
+      "lemma": [
+        "big"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "for"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "for"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "biggest"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "big"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "single"
+      ],
+      "_tgt": "단일",
+      "lemma": [
+        "single"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "risk"
+      ],
+      "_tgt": "위험",
+      "lemma": [
+        "risk"
+      ],
+      "id": [
+        "d000.s226.t10"
+      ],
+      "sense_key": [
+        "risk%1:26:00::"
+      ]
+    },
+    {
+      "_src": [
+        "factor"
+      ],
+      "_tgt": "요소",
+      "lemma": [
+        "factor"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "6": [
+    {
+      "_src": [
+        "Now"
+      ],
+      "_tgt": "작품",
+      "lemma": [
+        "now"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "are"
+      ],
+      "_tgt": "완성",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "made"
+      ],
+      "_tgt": "순서",
+      "lemma": [
+        "make"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "right"
+      ],
+      "_tgt": "어떻",
+      "lemma": [
+        "right"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "order"
+      ],
+      "_tgt": "ㄴ가요",
+      "lemma": [
+        "order"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "7": [
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "그래서",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "story"
+      ],
+      "_tgt": "이야기",
+      "lemma": [
+        "story"
+      ],
+      "id": [
+        "d000.s313.t2"
+      ],
+      "sense_key": [
+        "story%1:10:03::"
+      ]
+    },
+    {
+      "_src": [
+        "story"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "story"
+      ],
+      "id": [
+        "d000.s313.t2"
+      ],
+      "sense_key": [
+        "story%1:10:03::"
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "고",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "want"
+      ],
+      "_tgt": "싶",
+      "lemma": [
+        "want"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "8": [
+    {
+      "_src": [
+        "inevitable"
+      ],
+      "_tgt": "피하",
+      "lemma": [
+        "inevitable"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "inevitable"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "inevitable"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "inevitable"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "inevitable"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "inevitable"
+      ],
+      "_tgt": "없",
+      "lemma": [
+        "inevitable"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "It"
+      ],
+      "_tgt": "무섭",
+      "lemma": [
+        "it"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "terrible"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "terrible"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "what"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "what"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "but"
+      ],
+      "_tgt": "지만",
+      "lemma": [
+        "but"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "제가",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "really"
+      ],
+      "_tgt": "정말",
+      "lemma": [
+        "really"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "want"
+      ],
+      "_tgt": "고",
+      "lemma": [
+        "want"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "just"
+      ],
+      "_tgt": "단지",
+      "lemma": [
+        "just"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "people"
+      ],
+      "_tgt": "사람",
+      "lemma": [
+        "people"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "people"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "people"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "die"
+      ],
+      "_tgt": "죽",
+      "lemma": [
+        "die"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "when"
+      ],
+      "_tgt": "때",
+      "lemma": [
+        "when"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "leave"
+      ],
+      "_tgt": "남기",
+      "lemma": [
+        "leave"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "legacy"
+      ],
+      "_tgt": "유산",
+      "lemma": [
+        "legacy"
+      ],
+      "id": [
+        "d000.s414.t6"
+      ],
+      "sense_key": [
+        "legacy%1:21:00::"
+      ]
+    },
+    {
+      "_src": [
+        "fascinated"
+      ],
+      "_tgt": "되",
+      "lemma": [
+        "fascinate"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "fascinated"
+      ],
+      "_tgt": "었",
+      "lemma": [
+        "fascinate"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "다는",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "9": [
+    {
+      "_src": [
+        "morning"
+      ],
+      "_tgt": "오전",
+      "lemma": [
+        "morning"
+      ],
+      "id": [
+        "d000.s485.t2"
+      ],
+      "sense_key": [
+        "morning%1:28:00::"
+      ]
+    },
+    {
+      "_src": [
+        "4"
+      ],
+      "_tgt": "4",
+      "lemma": [
+        "4"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "4"
+      ],
+      "_tgt": "시",
+      "lemma": [
+        "4"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "am"
+      ],
+      "_tgt": "저",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "모습",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "10": [
+    {
+      "_src": [
+        "Invest"
+      ],
+      "_tgt": "투자",
+      "lemma": [
+        "invest"
+      ],
+      "id": [
+        "d000.s494.t0"
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "invest"
+      ],
+      "_tgt": "투자",
+      "lemma": [
+        "invest"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "invest"
+      ],
+      "_tgt": "투자",
+      "lemma": [
+        "invest"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "invest"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "invest"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "invest"
+      ],
+      "_tgt": "조르",
+      "lemma": [
+        "invest"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "11": [
+    {
+      "_src": [
+        "good"
+      ],
+      "_tgt": "좋",
+      "lemma": [
+        "good"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "The"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "news"
+      ],
+      "_tgt": "소식",
+      "lemma": [
+        "news"
+      ],
+      "id": [
+        "d000.s534.t1"
+      ],
+      "sense_key": [
+        "news%1:10:00::"
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "wise"
+      ],
+      "_tgt": "지혜",
+      "lemma": [
+        "wise"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "로",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "기",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "위하",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "어",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "brilliant"
+      ],
+      "_tgt": "똑똑",
+      "lemma": [
+        "brilliant"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "be"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "need"
+      ],
+      "_tgt": "필요",
+      "lemma": [
+        "need"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "be"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "12": [
+    {
+      "_src": [
+        "In"
+      ],
+      "_tgt": "베",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "담",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "우리",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "afraid"
+      ],
+      "_tgt": "도",
+      "lemma": [
+        "afraid"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "marketplace"
+      ],
+      "_tgt": "시장",
+      "lemma": [
+        "marketplace"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "competitive"
+      ],
+      "_tgt": "경쟁력",
+      "lemma": [
+        "competitive"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "remain"
+      ],
+      "_tgt": "유지",
+      "lemma": [
+        "remain"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "order"
+      ],
+      "_tgt": "려면",
+      "lemma": [
+        "order"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'re"
+      ],
+      "_tgt": "자네",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "시키",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "things"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "replace"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "replace"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "going"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "''"
+      ],
+      "_tgt": "거든",
+      "lemma": [
+        "''"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "now"
+      ],
+      "_tgt": "지금",
+      "lemma": [
+        "now"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "tenth"
+      ],
+      "_tgt": "십",
+      "lemma": [
+        "tenth"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "tenth"
+      ],
+      "_tgt": "분",
+      "lemma": [
+        "tenth"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "what"
+      ],
+      "_tgt": "일",
+      "lemma": [
+        "what"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "my"
+      ],
+      "_tgt": "내",
+      "lemma": [
+        "my"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "soul"
+      ],
+      "_tgt": "영혼",
+      "lemma": [
+        "soul"
+      ],
+      "id": [
+        "d000.s624.t10"
+      ],
+      "sense_key": [
+        "soul%1:18:00::"
+      ]
+    },
+    {
+      "_src": [
+        "for"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "for"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "sold"
+      ],
+      "_tgt": "팔",
+      "lemma": [
+        "sell"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "not"
+      ],
+      "_tgt": "지",
+      "lemma": [
+        "not"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "way"
+      ],
+      "_tgt": "방식",
+      "lemma": [
+        "way"
+      ],
+      "id": [
+        "d000.s624.t16"
+      ],
+      "sense_key": [
+        "way%1:07:01::"
+      ]
+    },
+    {
+      "_src": [
+        "way"
+      ],
+      "_tgt": "으로",
+      "lemma": [
+        "way"
+      ],
+      "id": [
+        "d000.s624.t16"
+      ],
+      "sense_key": [
+        "way%1:07:01::"
+      ]
+    },
+    {
+      "_src": [
+        "work"
+      ],
+      "_tgt": "일하",
+      "lemma": [
+        "work"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "people"
+      ],
+      "_tgt": "사람",
+      "lemma": [
+        "people"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "do"
+      ],
+      "_tgt": "없",
+      "lemma": [
+        "do"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "obvious"
+      ],
+      "_tgt": "당연",
+      "lemma": [
+        "obvious"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "their"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "their"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "13": [
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "KIPP",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "에서",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "teachers"
+      ],
+      "_tgt": "선생님",
+      "lemma": [
+        "teacher"
+      ],
+      "id": [
+        "d000.s684.t0"
+      ],
+      "sense_key": [
+        "teacher%1:18:00::"
+      ]
+    },
+    {
+      "_src": [
+        "kids"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "kid"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "kids"
+      ],
+      "_tgt": "아이",
+      "lemma": [
+        "kid"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "kids"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "kid"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "these"
+      ],
+      "_tgt": "이런",
+      "lemma": [
+        "these"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "things"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "teach"
+      ],
+      "_tgt": "가르치",
+      "lemma": [
+        "teach"
+      ],
+      "id": [
+        "d000.s684.t2"
+      ],
+      "sense_key": [
+        "teach%2:32:00::"
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "way"
+      ],
+      "_tgt": "방식",
+      "lemma": [
+        "way"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "by"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "by"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "의",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "all"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "all"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "었",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "other"
+      ],
+      "_tgt": "습니다",
+      "lemma": [
+        "other"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "it"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "it"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "minute"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "minute"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "day"
+      ],
+      "_tgt": "습니다",
+      "lemma": [
+        "day"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "14": [
+    {
+      "_src": [
+        "Now"
+      ],
+      "_tgt": "자",
+      "lemma": [
+        "now"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "economic"
+      ],
+      "_tgt": "경제",
+      "lemma": [
+        "economic"
+      ],
+      "id": [
+        "d000.s770.t3"
+      ],
+      "sense_key": [
+        "economic%3:01:01::"
+      ]
+    },
+    {
+      "_src": [
+        "situation"
+      ],
+      "_tgt": "상황",
+      "lemma": [
+        "situation"
+      ],
+      "id": [
+        "d000.s770.t4"
+      ],
+      "sense_key": [
+        "situation%1:26:00::"
+      ]
+    },
+    {
+      "_src": [
+        "world"
+      ],
+      "_tgt": "ㄹ까요",
+      "lemma": [
+        "world"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "15": [
+    {
+      "_src": [
+        "Here"
+      ],
+      "_tgt": "여기",
+      "lemma": [
+        "here"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "mortality"
+      ],
+      "_tgt": "아동",
+      "lemma": [
+        "mortality"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "mortality"
+      ],
+      "_tgt": "사망",
+      "lemma": [
+        "mortality"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "mortality"
+      ],
+      "_tgt": "율",
+      "lemma": [
+        "mortality"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "have"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "have"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "survival"
+      ],
+      "_tgt": "생존율",
+      "lemma": [
+        "survival"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "survival"
+      ],
+      "_tgt": "과",
+      "lemma": [
+        "survival"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "that"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "that"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "four"
+      ],
+      "_tgt": "네",
+      "lemma": [
+        "four"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "kids"
+      ],
+      "_tgt": "아이",
+      "lemma": [
+        "kid"
+      ],
+      "id": [
+        "d000.s773.t4"
+      ],
+      "sense_key": [
+        "kid%1:18:00::"
+      ]
+    },
+    {
+      "_src": [
+        "kids"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "kid"
+      ],
+      "id": [
+        "d000.s773.t4"
+      ],
+      "sense_key": [
+        "kid%1:18:00::"
+      ]
+    },
+    {
+      "_src": [
+        "there"
+      ],
+      "_tgt": "저기",
+      "lemma": [
+        "there"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "there"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "there"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "200"
+      ],
+      "_tgt": "200",
+      "lemma": [
+        "200"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "200"
+      ],
+      "_tgt": "명",
+      "lemma": [
+        "200"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "dying"
+      ],
+      "_tgt": "죽",
+      "lemma": [
+        "die"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "there"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "there"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "16": [
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "조금",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "더",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "here"
+      ],
+      "_tgt": "가보",
+      "lemma": [
+        "here"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "drive"
+      ],
+      "_tgt": "면",
+      "lemma": [
+        "drive"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "street"
+      ],
+      "_tgt": "길",
+      "lemma": [
+        "street"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "first"
+      ],
+      "_tgt": "첫",
+      "lemma": [
+        "first"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "garden"
+      ],
+      "_tgt": "정원",
+      "lemma": [
+        "garden"
+      ],
+      "id": [
+        "d000.s880.t4"
+      ],
+      "sense_key": [
+        "garden%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "find"
+      ],
+      "_tgt": "찾",
+      "lemma": [
+        "find"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "find"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "find"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "find"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "find"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "잇",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "10"
+      ],
+      "_tgt": "10",
+      "lemma": [
+        "10"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "50"
+      ],
+      "_tgt": "50",
+      "lemma": [
+        "50"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "dollars"
+      ],
+      "_tgt": "불",
+      "lemma": [
+        "dollar"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "earn"
+      ],
+      "_tgt": "벌",
+      "lemma": [
+        "earn"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "a"
+      ],
+      "_tgt": "고",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "17": [
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "그리고",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "thing"
+      ],
+      "_tgt": "한가지",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "interesting"
+      ],
+      "_tgt": "흥미",
+      "lemma": [
+        "interesting"
+      ],
+      "id": [
+        "d000.s888.t0"
+      ],
+      "sense_key": [
+        "interesting%3:00:00::"
+      ]
+    },
+    {
+      "_src": [
+        "interesting"
+      ],
+      "_tgt": "롭",
+      "lemma": [
+        "interesting"
+      ],
+      "id": [
+        "d000.s888.t0"
+      ],
+      "sense_key": [
+        "interesting%3:00:00::"
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "thing"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "thing"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "here"
+      ],
+      "_tgt": "여기",
+      "lemma": [
+        "here"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "파노라마",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "photo"
+      ],
+      "_tgt": "포토",
+      "lemma": [
+        "photo"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "family"
+      ],
+      "_tgt": "가족",
+      "lemma": [
+        "family"
+      ],
+      "id": [
+        "d000.s888.t7"
+      ],
+      "sense_key": [
+        "family%1:14:02::"
+      ]
+    },
+    {
+      "_src": [
+        "still"
+      ],
+      "_tgt": "아직",
+      "lemma": [
+        "still"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "still"
+      ],
+      "_tgt": "도",
+      "lemma": [
+        "still"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "panorama"
+      ],
+      "_tgt": "땅바닥",
+      "lemma": [
+        "panorama"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "on"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "on"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "sitting"
+      ],
+      "_tgt": "앉",
+      "lemma": [
+        "sit"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "sitting"
+      ],
+      "_tgt": "아",
+      "lemma": [
+        "sit"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "잇",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "see"
+      ],
+      "_tgt": "보",
+      "lemma": [
+        "see"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "see"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "see"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "see"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "see"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "잇",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "18": [
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "농사꾼",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "eagerly"
+      ],
+      "_tgt": "간절",
+      "lemma": [
+        "eagerly"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "그",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "advice"
+      ],
+      "_tgt": "조언",
+      "lemma": [
+        "advice"
+      ],
+      "id": [
+        "d000.s904.t3"
+      ],
+      "sense_key": [
+        "advice%1:10:00::"
+      ]
+    },
+    {
+      "_src": [
+        "get"
+      ],
+      "_tgt": "받",
+      "lemma": [
+        "get"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "기",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "poverty"
+      ],
+      "_tgt": "가난",
+      "lemma": [
+        "poverty"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "안",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "에서",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "survive"
+      ],
+      "_tgt": "살아남",
+      "lemma": [
+        "survive"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "아야",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "to"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "to"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "survive"
+      ],
+      "_tgt": "니까요",
+      "lemma": [
+        "survive"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "19": [
+    {
+      "_src": [
+        "Micro-credits"
+      ],
+      "_tgt": "마이크로",
+      "lemma": [
+        "micro-credits"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Micro-credits"
+      ],
+      "_tgt": "크레딧",
+      "lemma": [
+        "micro-credits"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "her"
+      ],
+      "_tgt": "그녀",
+      "lemma": [
+        "her"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "gave"
+      ],
+      "_tgt": "에게",
+      "lemma": [
+        "give"
+      ],
+      "id": [
+        "d000.s916.t1"
+      ],
+      "sense_key": [
+        "give%2:40:00::"
+      ]
+    },
+    {
+      "_src": [
+        "bicycle"
+      ],
+      "_tgt": "자전거",
+      "lemma": [
+        "bicycle"
+      ],
+      "id": [
+        "d000.s916.t2"
+      ],
+      "sense_key": [
+        "bicycle%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "주",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "know"
+      ],
+      "_tgt": "어요",
+      "lemma": [
+        "know"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "20": [
+    {
+      "_src": [
+        "So"
+      ],
+      "_tgt": "그래서",
+      "lemma": [
+        "so"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "So"
+      ],
+      "_tgt": "저",
+      "lemma": [
+        "so"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Ws"
+      ],
+      "_tgt": "Ws",
+      "lemma": [
+        "w"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Ws"
+      ],
+      "_tgt": "W",
+      "lemma": [
+        "w"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Ws"
+      ],
+      "_tgt": "불리",
+      "lemma": [
+        "w"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "고",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "how"
+      ],
+      "_tgt": "어떻",
+      "lemma": [
+        "how"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "how"
+      ],
+      "_tgt": "게",
+      "lemma": [
+        "how"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "together"
+      ],
+      "_tgt": "같이",
+      "lemma": [
+        "together"
+      ],
+      "id": [
+        "d000.s1056.t4"
+      ],
+      "sense_key": [
+        "together%4:02:02::"
+      ]
+    },
+    {
+      "_src": [
+        "stick"
+      ],
+      "_tgt": "어",
+      "lemma": [
+        "stick"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "21": [
+    {
+      "_src": [
+        "Higgs"
+      ],
+      "_tgt": "힉스",
+      "lemma": [
+        "higgs"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "particles"
+      ],
+      "_tgt": "입자",
+      "lemma": [
+        "particle"
+      ],
+      "id": [
+        "d000.s1061.t1"
+      ],
+      "sense_key": [
+        "particle%1:27:01::"
+      ]
+    },
+    {
+      "_src": [
+        "have"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "have"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "have"
+      ],
+      "_tgt": "아직",
+      "lemma": [
+        "have"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "discovered"
+      ],
+      "_tgt": "발견",
+      "lemma": [
+        "discover"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "discovered"
+      ],
+      "_tgt": "되",
+      "lemma": [
+        "discover"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "not"
+      ],
+      "_tgt": "지",
+      "lemma": [
+        "not"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "not"
+      ],
+      "_tgt": "않",
+      "lemma": [
+        "not"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "been"
+      ],
+      "_tgt": "았",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "22": [
+    {
+      "_src": [
+        "strong"
+      ],
+      "_tgt": "강력",
+      "lemma": [
+        "strong"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "The"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "force"
+      ],
+      "_tgt": "힘",
+      "lemma": [
+        "force"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "which"
+      ],
+      "_tgt": "즉",
+      "lemma": [
+        "which"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "nuclear"
+      ],
+      "_tgt": "핵",
+      "lemma": [
+        "nuclear"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "together"
+      ],
+      "_tgt": "묶",
+      "lemma": [
+        "together"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "sticks"
+      ],
+      "_tgt": "어",
+      "lemma": [
+        "stick"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "strong"
+      ],
+      "_tgt": "강",
+      "lemma": [
+        "strong"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "force"
+      ],
+      "_tgt": "핵력",
+      "lemma": [
+        "force"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "weaker"
+      ],
+      "_tgt": "약하",
+      "lemma": [
+        "weak"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "gets"
+      ],
+      "_tgt": "지",
+      "lemma": [
+        "get"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "그리고",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "여러분",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "what"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "what"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "see"
+      ],
+      "_tgt": "보",
+      "lemma": [
+        "see"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "standard"
+      ],
+      "_tgt": "표준",
+      "lemma": [
+        "standard"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "model"
+      ],
+      "_tgt": "모형",
+      "lemma": [
+        "model"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "분",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "these"
+      ],
+      "_tgt": "이러하",
+      "lemma": [
+        "these"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "change"
+      ],
+      "_tgt": "변화",
+      "lemma": [
+        "change"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "these"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "these"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "can"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "can"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "can"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "can"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "can"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "can"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "is"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "forces"
+      ],
+      "_tgt": "힘",
+      "lemma": [
+        "force"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "gravity"
+      ],
+      "_tgt": "중력",
+      "lemma": [
+        "gravity"
+      ],
+      "id": [
+        "d000.s1095.t18"
+      ],
+      "sense_key": [
+        "gravity%1:19:00::"
+      ]
+    },
+    {
+      "_src": [
+        "than"
+      ],
+      "_tgt": "제외",
+      "lemma": [
+        "than"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "other"
+      ],
+      "_tgt": "나머지",
+      "lemma": [
+        "other"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "three"
+      ],
+      "_tgt": "3",
+      "lemma": [
+        "three"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "three"
+      ],
+      "_tgt": "개",
+      "lemma": [
+        "three"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "forces"
+      ],
+      "_tgt": "힘",
+      "lemma": [
+        "force"
+      ],
+      "id": [
+        "d000.s1095.t14"
+      ],
+      "sense_key": [
+        "force%1:19:00::"
+      ]
+    },
+    {
+      "_src": [
+        "almost"
+      ],
+      "_tgt": "거의",
+      "lemma": [
+        "almost"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "one"
+      ],
+      "_tgt": "하나",
+      "lemma": [
+        "one"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "together"
+      ],
+      "_tgt": "뭉치",
+      "lemma": [
+        "together"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "seem"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "seem"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "seem"
+      ],
+      "_tgt": "처럼",
+      "lemma": [
+        "seem"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "seem"
+      ],
+      "_tgt": "보이",
+      "lemma": [
+        "seem"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "23": [
+    {
+      "_src": [
+        "So"
+      ],
+      "_tgt": "그래서",
+      "lemma": [
+        "so"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "a"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "very"
+      ],
+      "_tgt": "굉장히",
+      "lemma": [
+        "very"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "compelling"
+      ],
+      "_tgt": "앞서",
+      "lemma": [
+        "compelling"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "theory"
+      ],
+      "_tgt": "이론",
+      "lemma": [
+        "theory"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "mainstream"
+      ],
+      "_tgt": "주류",
+      "lemma": [
+        "mainstream"
+      ],
+      "id": [
+        "d000.s1101.t3"
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "physics"
+      ],
+      "_tgt": "물리학",
+      "lemma": [
+        "physic"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "24": [
+    {
+      "_src": [
+        "creation"
+      ],
+      "_tgt": "창조",
+      "lemma": [
+        "creation"
+      ],
+      "id": [
+        "d000.s1107.t0"
+      ],
+      "sense_key": [
+        "creation%1:04:00::"
+      ]
+    },
+    {
+      "_src": [
+        "story"
+      ],
+      "_tgt": "이야기",
+      "lemma": [
+        "story"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "제가",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "생각",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "하기",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "a"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "같",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "다고",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "25": [
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "built"
+      ],
+      "_tgt": "만들",
+      "lemma": [
+        "build"
+      ],
+      "id": [
+        "d000.s1163.t0"
+      ],
+      "sense_key": [
+        "build%2:36:00::"
+      ]
+    },
+    {
+      "_src": [
+        "built"
+      ],
+      "_tgt": "었",
+      "lemma": [
+        "build"
+      ],
+      "id": [
+        "d000.s1163.t0"
+      ],
+      "sense_key": [
+        "build%2:36:00::"
+      ]
+    }
+  ],
+  "26": [
+    {
+      "_src": [
+        "positive"
+      ],
+      "_tgt": "긍정",
+      "lemma": [
+        "positive"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "emotion"
+      ],
+      "_tgt": "감정",
+      "lemma": [
+        "emotion"
+      ],
+      "id": [
+        "d000.s1400.t3"
+      ],
+      "sense_key": [
+        "emotion%1:12:00::"
+      ]
+    },
+    {
+      "_src": [
+        "life"
+      ],
+      "_tgt": "경험",
+      "lemma": [
+        "life"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "This"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "this"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "have"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "have"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "amplify"
+      ],
+      "_tgt": "증폭",
+      "lemma": [
+        "amplify"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "as"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "게",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "되",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "skills"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "skill"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "it"
+      ],
+      "_tgt": "ㅂ니다",
+      "lemma": [
+        "it"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "27": [
+    {
+      "_src": [
+        "They"
+      ],
+      "_tgt": "그",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "poverty"
+      ],
+      "_tgt": "빈곤",
+      "lemma": [
+        "poverty"
+      ],
+      "id": [
+        "d000.s1519.t2"
+      ],
+      "sense_key": [
+        "poverty%1:26:00::"
+      ]
+    },
+    {
+      "_src": [
+        "as"
+      ],
+      "_tgt": "으로",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "getting"
+      ],
+      "_tgt": "부터",
+      "lemma": [
+        "get"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "out"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "out"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "of"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "of"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "as"
+      ],
+      "_tgt": "한",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "fast"
+      ],
+      "_tgt": "빨리",
+      "lemma": [
+        "fast"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "can"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "can"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "as"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "28": [
+    {
+      "_src": [
+        "This"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "this"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "real"
+      ],
+      "_tgt": "실제",
+      "lemma": [
+        "real"
+      ],
+      "id": [
+        "d000.s1536.t1"
+      ],
+      "sense_key": [
+        "real%3:00:00::"
+      ]
+    },
+    {
+      "_src": [
+        "of"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "of"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "an"
+      ],
+      "_tgt": "ㄴ데요",
+      "lemma": [
+        "an"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "여러분",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "you"
+      ],
+      "_tgt": "께",
+      "lemma": [
+        "you"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "iron"
+      ],
+      "_tgt": "철",
+      "lemma": [
+        "iron"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "all"
+      ],
+      "_tgt": "것",
+      "lemma": [
+        "all"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "meteorite"
+      ],
+      "_tgt": "운석",
+      "lemma": [
+        "meteorite"
+      ],
+      "id": [
+        "d000.s1536.t2"
+      ],
+      "sense_key": [
+        "meteorite%1:17:00::"
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "earth"
+      ],
+      "_tgt": "지구",
+      "lemma": [
+        "earth"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "hits"
+      ],
+      "_tgt": "부딪히",
+      "lemma": [
+        "hit"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "when"
+      ],
+      "_tgt": "때",
+      "lemma": [
+        "when"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "of"
+      ],
+      "_tgt": "의",
+      "lemma": [
+        "of"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "speed"
+      ],
+      "_tgt": "속도",
+      "lemma": [
+        "speed"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "와",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "heat"
+      ],
+      "_tgt": "열",
+      "lemma": [
+        "heat"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "from"
+      ],
+      "_tgt": "에서",
+      "lemma": [
+        "from"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "from"
+      ],
+      "_tgt": "부터",
+      "lemma": [
+        "from"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "of"
+      ],
+      "_tgt": "중",
+      "lemma": [
+        "of"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "much"
+      ],
+      "_tgt": "얼마",
+      "lemma": [
+        "much"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "much"
+      ],
+      "_tgt": "만큼",
+      "lemma": [
+        "much"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "고",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "melts"
+      ],
+      "_tgt": "녹",
+      "lemma": [
+        "melt"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "how"
+      ],
+      "_tgt": "는지",
+      "lemma": [
+        "how"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "it"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "it"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "29": [
+    {
+      "_src": [
+        "1455"
+      ],
+      "_tgt": "1455",
+      "lemma": [
+        "1455"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "In"
+      ],
+      "_tgt": "년",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "In"
+      ],
+      "_tgt": "에",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "In"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "1455"
+      ],
+      "_tgt": "누",
+      "lemma": [
+        "1455"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "nobody"
+      ],
+      "_tgt": "구도",
+      "lemma": [
+        "nobody"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "read"
+      ],
+      "_tgt": "읽",
+      "lemma": [
+        "read"
+      ],
+      "id": [
+        "d000.s1551.t3"
+      ],
+      "sense_key": [
+        "read%2:31:00::"
+      ]
+    },
+    {
+      "_src": [
+        "read"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "read"
+      ],
+      "id": [
+        "d000.s1551.t3"
+      ],
+      "sense_key": [
+        "read%2:31:00::"
+      ]
+    },
+    {
+      "_src": [
+        "could"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "could"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "30": [
+    {
+      "_src": [
+        "But"
+      ],
+      "_tgt": "하지만",
+      "lemma": [
+        "but"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "저",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "along"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "along"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "coal"
+      ],
+      "_tgt": "석탄",
+      "lemma": [
+        "coal"
+      ],
+      "id": [
+        "d000.s1609.t3"
+      ],
+      "sense_key": [
+        "coal%1:27:00::"
+      ]
+    },
+    {
+      "_src": [
+        "lump"
+      ],
+      "_tgt": "한",
+      "lemma": [
+        "lump"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "brought"
+      ],
+      "_tgt": "를",
+      "lemma": [
+        "bring"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "brought"
+      ],
+      "_tgt": "가져오",
+      "lemma": [
+        "bring"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "brought"
+      ],
+      "_tgt": "았",
+      "lemma": [
+        "bring"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "right"
+      ],
+      "_tgt": "바로",
+      "lemma": [
+        "right"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "here"
+      ],
+      "_tgt": "여기",
+      "lemma": [
+        "here"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "one"
+      ],
+      "_tgt": "한",
+      "lemma": [
+        "one"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "lump"
+      ],
+      "_tgt": "덩어리",
+      "lemma": [
+        "lump"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "of"
+      ],
+      "_tgt": "의",
+      "lemma": [
+        "of"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "coal"
+      ],
+      "_tgt": "석탄",
+      "lemma": [
+        "coal"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "31": [
+    {
+      "_src": [
+        "dare"
+      ],
+      "_tgt": "감히",
+      "lemma": [
+        "dare"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "How"
+      ],
+      "_tgt": "어떻",
+      "lemma": [
+        "how"
+      ],
+      "id": [
+        "d000.s1622.t1"
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "How"
+      ],
+      "_tgt": "게",
+      "lemma": [
+        "how"
+      ],
+      "id": [
+        "d000.s1622.t1"
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "우리",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "optimistic"
+      ],
+      "_tgt": "낙관적",
+      "lemma": [
+        "optimistic"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "optimistic"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "optimistic"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "be"
+      ],
+      "_tgt": "ㄹ",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "be"
+      ],
+      "_tgt": "수",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "be"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "32": [
+    {
+      "_src": [
+        "Already"
+      ],
+      "_tgt": "이미",
+      "lemma": [
+        "already"
+      ],
+      "id": [
+        "d000.s1651.t0"
+      ],
+      "sense_key": [
+        "already%4:02:00::"
+      ]
+    },
+    {
+      "_src": [
+        "Alaska"
+      ],
+      "_tgt": "래스",
+      "lemma": [
+        "alaska"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Alaska"
+      ],
+      "_tgt": "카",
+      "lemma": [
+        "alaska"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "famous"
+      ],
+      "_tgt": "유명",
+      "lemma": [
+        "famous"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "village"
+      ],
+      "_tgt": "마을",
+      "lemma": [
+        "village"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "This"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "this"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Newfoundland"
+      ],
+      "_tgt": "뉴",
+      "lemma": [
+        "newfoundland"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Newfoundland"
+      ],
+      "_tgt": "펀들",
+      "lemma": [
+        "newfoundland"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "랜드",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "town"
+      ],
+      "_tgt": "마을",
+      "lemma": [
+        "town"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Antarctica"
+      ],
+      "_tgt": "남극",
+      "lemma": [
+        "antarctica"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "NASA"
+      ],
+      "_tgt": "NASA",
+      "lemma": [
+        "nasa"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "studies"
+      ],
+      "_tgt": "연구",
+      "lemma": [
+        "study"
+      ],
+      "id": [
+        "d000.s1651.t11"
+      ],
+      "sense_key": [
+        "study%1:04:00::"
+      ]
+    },
+    {
+      "_src": [
+        "from"
+      ],
+      "_tgt": "곳",
+      "lemma": [
+        "from"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "33": [
+    {
+      "_src": [
+        "Internet"
+      ],
+      "_tgt": "인터넷",
+      "lemma": [
+        "internet"
+      ],
+      "id": [
+        "d000.s1736.t1"
+      ],
+      "sense_key": [
+        "internet%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "Use"
+      ],
+      "_tgt": "사용",
+      "lemma": [
+        "use"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Use"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "use"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Go"
+      ],
+      "_tgt": "시",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Internet"
+      ],
+      "_tgt": "인터넷",
+      "lemma": [
+        "internet"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "Go"
+      ],
+      "_tgt": "접속",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "34": [
+    {
+      "_src": [
+        "know"
+      ],
+      "_tgt": "알",
+      "lemma": [
+        "know"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'s"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "There"
+      ],
+      "_tgt": "도",
+      "lemma": [
+        "there"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "There"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "there"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "some"
+      ],
+      "_tgt": "겠",
+      "lemma": [
+        "some"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "old"
+      ],
+      "_tgt": "옛날",
+      "lemma": [
+        "old"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "African"
+      ],
+      "_tgt": "아프리카",
+      "lemma": [
+        "african"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "proverb"
+      ],
+      "_tgt": "속담",
+      "lemma": [
+        "proverb"
+      ],
+      "id": [
+        "d000.s1750.t2"
+      ],
+      "sense_key": [
+        "proverb%1:10:00::"
+      ]
+    },
+    {
+      "_src": [
+        "quickly"
+      ],
+      "_tgt": "빨리",
+      "lemma": [
+        "quickly"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "go"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "alone"
+      ],
+      "_tgt": "혼자",
+      "lemma": [
+        "alone"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "go"
+      ],
+      "_tgt": "멀리",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "together"
+      ],
+      "_tgt": "함께",
+      "lemma": [
+        "together"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "go"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "says"
+      ],
+      "_tgt": "말",
+      "lemma": [
+        "say"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "We"
+      ],
+      "_tgt": "우리",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "We"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "far"
+      ],
+      "_tgt": "멀리",
+      "lemma": [
+        "far"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "quickly"
+      ],
+      "_tgt": "빨리",
+      "lemma": [
+        "quickly"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "go"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "go"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "35": [
+    {
+      "_src": [
+        "And"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "findings"
+      ],
+      "_tgt": "발견",
+      "lemma": [
+        "finding"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "these"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "these"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "many"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "many"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "many"
+      ],
+      "_tgt": "많",
+      "lemma": [
+        "many"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "many"
+      ],
+      "_tgt": "은",
+      "lemma": [
+        "many"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "people"
+      ],
+      "_tgt": "사람",
+      "lemma": [
+        "people"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "people"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "people"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "I"
+      ],
+      "_tgt": "에게",
+      "lemma": [
+        "i"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "hope"
+      ],
+      "_tgt": "희망",
+      "lemma": [
+        "hope"
+      ],
+      "id": [
+        "d000.s1826.t8"
+      ],
+      "sense_key": [
+        "hope%1:09:00::"
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "과",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "choices"
+      ],
+      "_tgt": "선택",
+      "lemma": [
+        "choice"
+      ],
+      "id": [
+        "d000.s1826.t10"
+      ],
+      "sense_key": [
+        "choice%1:04:00::"
+      ]
+    },
+    {
+      "_src": [
+        "giving"
+      ],
+      "_tgt": "기회",
+      "lemma": [
+        "give"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "giving"
+      ],
+      "_tgt": "주",
+      "lemma": [
+        "give"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "giving"
+      ],
+      "_tgt": "ㄴ다는",
+      "lemma": [
+        "give"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "really"
+      ],
+      "_tgt": "의미",
+      "lemma": [
+        "really"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "are"
+      ],
+      "_tgt": "있",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "think"
+      ],
+      "_tgt": "라고",
+      "lemma": [
+        "think"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "new"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "new"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ],
+  "36": [
+    {
+      "_src": [
+        "We"
+      ],
+      "_tgt": "우리",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "We"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "changing"
+      ],
+      "_tgt": "변화",
+      "lemma": [
+        "change"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "doing"
+      ],
+      "_tgt": "하",
+      "lemma": [
+        "do"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "'re"
+      ],
+      "_tgt": "는",
+      "lemma": [
+        "be"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "media"
+      ],
+      "_tgt": "매체",
+      "lemma": [
+        "medium"
+      ],
+      "id": [
+        "d000.s1836.t4"
+      ],
+      "sense_key": [
+        "medium%1:10:01::"
+      ]
+    }
+  ],
+  "37": [
+    {
+      "_src": [
+        "windows"
+      ],
+      "_tgt": "창문",
+      "lemma": [
+        "window"
+      ],
+      "id": [
+        "d000.s1853.t1"
+      ],
+      "sense_key": [
+        "window%1:06:00::"
+      ]
+    },
+    {
+      "_src": [
+        "We"
+      ],
+      "_tgt": "지속적",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "으로",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "steamed"
+      ],
+      "_tgt": "김",
+      "lemma": [
+        "steam"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "permanently"
+      ],
+      "_tgt": "을",
+      "lemma": [
+        "permanently"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "up"
+      ],
+      "_tgt": "내",
+      "lemma": [
+        "up"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "different"
+      ],
+      "_tgt": "다른",
+      "lemma": [
+        "different"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "designer"
+      ],
+      "_tgt": "디자이너",
+      "lemma": [
+        "designer"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "we"
+      ],
+      "_tgt": "가",
+      "lemma": [
+        "we"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "come"
+      ],
+      "_tgt": "아서",
+      "lemma": [
+        "come"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "a"
+      ],
+      "_tgt": "사진",
+      "lemma": [
+        "a"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "and"
+      ],
+      "_tgt": "과",
+      "lemma": [
+        "and"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "그",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "they"
+      ],
+      "_tgt": "들",
+      "lemma": [
+        "they"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "in"
+      ],
+      "_tgt": "이",
+      "lemma": [
+        "in"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "learned"
+      ],
+      "_tgt": "배우",
+      "lemma": [
+        "learn"
+      ],
+      "id": [
+        "d000.s1853.t10"
+      ],
+      "sense_key": [
+        "learn%2:31:00::"
+      ]
+    },
+    {
+      "_src": [
+        "things"
+      ],
+      "_tgt": "듣",
+      "lemma": [
+        "thing"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "steam"
+      ],
+      "_tgt": "되",
+      "lemma": [
+        "steam"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "the"
+      ],
+      "_tgt": "ㄴ",
+      "lemma": [
+        "the"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "window"
+      ],
+      "_tgt": "창문",
+      "lemma": [
+        "window"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    },
+    {
+      "_src": [
+        "write"
+      ],
+      "_tgt": "쓰",
+      "lemma": [
+        "write"
+      ],
+      "id": [
+        null
+      ],
+      "sense_key": [
+        null
+      ]
+    }
+  ]
+}
